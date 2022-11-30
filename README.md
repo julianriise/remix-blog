@@ -105,7 +105,7 @@ Prior to your first deployment, you'll need to do a few things:
   ```
 
 - Add a `FLY_API_TOKEN` to your GitHub repo. To do this, go to your user settings on Fly and create a new [token](https://web.fly.io/user/personal_access_tokens/new), then add it to [your repo secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) with the name `FLY_API_TOKEN`.
-hxQSEC3RFdIU-YY-im-CG8tRzn-qxMxL1SJbSm_qynU
+  hxQSEC3RFdIU-YY-im-CG8tRzn-qxMxL1SJbSm_qynU
 
 - Add a `SESSION_SECRET` to your fly app secrets, to do this you can run the following commands:
 
